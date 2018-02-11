@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/hello/hello.iml" filepath="$PROJECT_DIR$/hello/hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s02_packages/s02_packages.iml" filepath="$PROJECT_DIR$/s02_packages/s02_packages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s03_variables/s03_variables.iml" filepath="$PROJECT_DIR$/s03_variables/s03_variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s04_scope/s04_scope.iml" filepath="$PROJECT_DIR$/s04_scope/s04_scope.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s06_constants/s06_constants.iml" filepath="$PROJECT_DIR$/s06_constants/s06_constants.iml" />
     </modules>
   </component>
 </project>
